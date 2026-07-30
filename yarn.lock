@@ -3115,7 +3115,7 @@ __metadata:
     jimp: "npm:^1.6.1"
     jiti: "npm:^2.4.2"
     json: "npm:^11.0.0"
-    libsignal: "npm:^6.0.0"
+    libsignal: "github:WilliamPletsch/libsignal-node#3b3b0f919e30bd1c45d8e5f9e4ee42238901013a"
     link-preview-js: "npm:^3.0.0"
     lru-cache: "npm:^11.1.0"
     music-metadata: "npm:^11.12.3"
@@ -6118,13 +6118,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"libsignal@npm:^6.0.0":
+"libsignal@github:WilliamPletsch/libsignal-node#3b3b0f919e30bd1c45d8e5f9e4ee42238901013a":
   version: 6.0.0
-  resolution: "libsignal@npm:6.0.0"
+  resolution: "libsignal@https://github.com/WilliamPletsch/libsignal-node.git#commit=3b3b0f919e30bd1c45d8e5f9e4ee42238901013a"
   dependencies:
     curve25519-js: "npm:^0.0.4"
     protobufjs: "npm:^7.5.5"
-  checksum: 10c0/111675e3834641f4c4635c7ad4a6a03a92d24a3a8e9b1c517479de9d3a6ae68abe71af16c25a9d669a3c71b5b6c5cc30d5d45df160beb0010505118dcc3f966c
+  checksum: 10c0/4414e3fae4b44a73f4c639fb0dabb2a3b10dbecf7b587e675969ab1f58ca56fc689764b2ceb696c4d4c7131da00cfea97b095a938c17444a3ab41a3f05b2f874
   languageName: node
   linkType: hard
 
